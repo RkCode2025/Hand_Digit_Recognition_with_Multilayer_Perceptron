@@ -1,2 +1,2 @@
-# Multilayer-Perceptron-Implementation-from-Scratch
-Multilayer Perceptron Implementation from Scratch
+# Hand_Digit_Recognition_with_Multilayer_Perceptron
+Hand_Digit_Recognition_with_Multilayer_Perceptron
